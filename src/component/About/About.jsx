@@ -17,6 +17,7 @@ const About = () => {
           designed to empower students with the knowledge, skills, and
           experiences needed to excel in the dynamic field of education.
         </p>
+        
         <p>
           With a focus on innovation, hands-on learning, and personalized
           mentorship, our programs prepare aspiring educators to make a
@@ -29,7 +30,7 @@ const About = () => {
           pathway to achieve your goals and unlock your full potential in
           shaping the future of education.
         </p>
-        
+
       </div>
     </div>
   );
